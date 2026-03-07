@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+        "module": "nodenext",
+        "outDir": "./dist"
+	}
+}
+
+
+/*
+ESNext - современный ESM синтаксис
+
+CommonJS - старый common js синтаксис с require()
+
+nodenext - либо ESM либо CJS в зависимости от расширения файла
+и поля module в package.json
+
+*/
