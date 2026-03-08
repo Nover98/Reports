@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"moduleResolution": "nodenext",
+        "module": "nodenext"
+	}
+}
+
+/*
+Node10 if module is CommonJS; 
+
+Node16 if module is Node16, Node18, or Node20;
+
+NodeNext if module is NodeNext; 
+
+Bundler if module is Preserve; 
+
+Classic otherwise.
+*/

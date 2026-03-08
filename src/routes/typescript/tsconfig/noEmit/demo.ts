@@ -8,8 +8,6 @@ const newUser: User = {
     age: 20,
 };
 
-/* open terminal in the current folder and write 
-
-npx tsc 
-
+/*
+открой термина в текущей папке и напиши npx tsc 
 */
