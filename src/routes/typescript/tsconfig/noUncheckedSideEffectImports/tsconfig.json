@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"noUncheckedSideEffectImports": false,
+
+
+
+
+		"module": "ESNext",
+		"moduleResolution": "bundler",
+		"types": []
+	}
+}
