@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"resolveJsonModule": true,
+
+
+        
+        "moduleResolution": "nodenext",
+        "module": "nodenext",
+        "outDir": "./dist"
+	}
+}
