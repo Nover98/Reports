@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"lib": ["ES2021"],
+
+
+
+		"types": [],
+        "outDir": "./dist"
+	},
+    "files": ["demo-es-features.ts", "demo-dom-features.ts"]
+}
